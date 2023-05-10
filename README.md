@@ -1,1 +1,1 @@
-# qr-Reader
+# qr-Reader with scan qr code
